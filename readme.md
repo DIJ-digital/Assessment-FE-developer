@@ -21,6 +21,8 @@ Wat we ongeveer verwachten:
    * Eventueel zou het leuk zijn als items die gekoppeld zijn aan een klant de kleur van de klant krijgen, de kleur kan je uit de API ophalen 
 4. Een opgeslagen wachtwoord kan weer bekeken worden
 
+Styling is niet nodig voor deze opdracht. We zijn vooral benieuwd hoe je je code structureert en hoe je het bouwen van code a.d.v. een functionele omschrijving aanpakt.
+
 ## Assessment opsturen
 Clone deze repository of maak je eigen repo aan. Stuur ons een linkje naar je repo of stuur hem daarna in een zipje onze kant op.
 We hebben liever geen forks of pull requests, dan kan iedereen de oplossing bij elkaar afkijken ;)
