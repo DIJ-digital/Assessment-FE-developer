@@ -17,9 +17,9 @@ Wat we ongeveer verwachten:
     * Geef je wachtwoord een titel zodat je hem makkelijk terug kan vinden
     * Wachtwoord invoeren
     * Het zou handig zijn om wachtwoorden te kunnen koppelen aan klanten. Zo is het makkelijker om later wachtwoorden terug te vinden. Je kan hier onze 'api' aanroepen om de klanten op te halen: https://pastebin.com/raw/zSFTiVWr
-    * Eventueel zou het leuk zijn als items die gekoppeld zijn aan een klant de kleur van de klant krijgen, deze vind je ook terug in de API. 
 2. Een overzicht met alle opgeslagen wachtwoorden
-3. Een opgeslagen wachtwoord kan weer bekeken worden
+   * Eventueel zou het leuk zijn als items die gekoppeld zijn aan een klant de kleur van de klant krijgen, de kleur kan je uit de API ophalen 
+4. Een opgeslagen wachtwoord kan weer bekeken worden
 
 ## Assessment opsturen
 Clone deze repository of maak je eigen repo aan. Stuur ons een linkje naar je repo of stuur hem daarna in een zipje onze kant op.
